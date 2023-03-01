@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: lightsalmon;
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(83, 61, 209, 0.274);
+}
+
+.lasagnaa{
+    height: auto;
+    width: 30%;
+    min-width: 10%
+}
+
+li,ol{
+    text-align: start;
+    font-family:'Courier New', Courier, monospace;
+}
