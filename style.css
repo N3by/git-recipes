@@ -11,7 +11,9 @@
 .lasagnaa{
     height: auto;
     width: 30%;
-    min-width: 10%
+    min-width: 3%;
+    max-width: fit-content;
+    
 }
 
 li,ol{
